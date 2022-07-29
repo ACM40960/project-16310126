@@ -1,11 +1,16 @@
-# ACM40960 Project ReadME
-## Eilish Clune & Megan Farrell
-### Intended use
+# ACM40960 21208251, 16310126
+ 
+Eilish Clune & Megan Farrell
 
-# Introduction
+## 1. Intended use
 
-# Mathematica Installation
+The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
 
-# Data
 
-# Running the notebook
+## 2. Introduction
+
+## 3. Mathematica Installation
+
+## 4. Data
+
+## 5. Running the notebook
