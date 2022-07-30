@@ -35,6 +35,11 @@ You will be required to
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
+#### Buying a Lisence
+
+If you cannot access Wolfram Methematica through your University or Institution, you can buy a lisence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download in install Mathematica for Home and Office. 
+
+
 ### 3. Data 📊 📈 
 
 #### Temperature Data 🌡️ ❄️ 🔥
@@ -73,16 +78,25 @@ From here, we have made use of the three files:
 
 * file name co2_trend_gl.csv
 
+* file size 112K
+
+* last modified upon download 
+
 2. CO$_2$ Global Annual Mean Estimates at Mauna Loa, Hawaii.
 
 * file name co2_annmean_mlo.csv
+
+* file size 3.7K
+
+* last modified upon download 11th July 2022
 
 3. CO$_2$ Global Monthly Estimates at Mauna Loa, Hawaii.
 
 * file name co2_mm_mlo.csv
 
-![image](https://user-images.githubusercontent.com/60405870/181994997-a3cdb29b-f584-42b9-b8e4-4536a68d2c19.png)
+* file size 36K
 
+* last modified upon download 11th July 2022
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
@@ -106,13 +120,13 @@ The notebook is organised into six sections across
 
 Sections can be expanded in a few different ways. By clicking the section expansion the section is opened.
 
-![image](https://user-images.githubusercontent.com/60405870/181995116-4e6467b4-a58b-4c07-bf1d-e1caa331eb95.png)
+![image](https://user-images.githubusercontent.com/60405870/181856130-0f6416f1-38af-4561-b0b7-a55e557fe29c.png)
 
-The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system. The same commands can be used to collapse the section again to aid with notebook consolidation.
+The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-### 5. Authors 👩‍🔬 👩‍🔬
+### 5. Authors 🚺 👩‍🔬
 
  
 Eilish Clune & Megan Farrell (21208251, 16310126).
