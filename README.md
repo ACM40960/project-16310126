@@ -11,10 +11,6 @@ The aim of this project is to conduct an investigation into the key determinants
 
 Mathematica is a computing system which is favoured across many disciplines from geo-spatial mapping to general relativity for its excellence in data science, visualisation and image processing. It is a high-level programming language, making prototyping solutions to a variety of problems straight-forward.
 
-#### General User
-
-The general user can download Mathematica through the same website. However, licenses range in price, with an industry license ranging from €755 per year (excluding VAT).
-
 #### Institution License
 
 You can find out if your academic institution holds a site license to Mathematica by following the link the the [Mathematica homepage](https://www.wolfram.com/mathematica/).
@@ -32,6 +28,10 @@ You will be required to
 - Follow the link to sign into the Wolfram User Portal.
 - Download and run the installer.
 - Enter the Activation Key at the prompt.
+
+#### General User
+
+If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download and install Mathematica for Home and Office. The general user can download Mathematica through the same website. However, there is a fee attached to general licenses according to which package the user chooses.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
