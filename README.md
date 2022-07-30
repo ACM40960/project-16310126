@@ -5,7 +5,7 @@
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables. 
 
-###  2. Mathematica Installation
+###  2. Mathematica Installation 📦 📂
 
 #### Introduction
 
@@ -90,11 +90,11 @@ From here, we have made use of the three files:
 
 ### 4. Running the notebook 🏃‍♀️ 🖥️ 
 
-To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
+To run the notebook, download the ACM40960_21208251_16310126.nb included within this repository along with all prescribed data-sets. There should be 7 data-sets downloaded and included in the same folder as the Mathematica notebook. Opening Mathematica on your desktop should open on the following page:
 
 ![image](https://user-images.githubusercontent.com/60405870/181854711-00dee655-c37b-4269-975c-086cbe729d64.png)
 
-Open the Mathematica document. We recommend the user evaluate notebook before expanding sections, which takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab.
+Open the Mathematica notebook file. We recommend the user evaluate notebook before expanding sections, which takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab.
 
 ![image](https://user-images.githubusercontent.com/60405870/181855350-fdfb1e80-435b-4ee1-be20-a5cf0ba6ca86.png)
 
