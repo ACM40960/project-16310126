@@ -78,19 +78,13 @@ From here, we have made use of the three files:
 
 * file name co2_trend_gl.csv
 
-* last modified upon download 
-
 2. CO$_2$ Global Annual Mean Estimates at Mauna Loa, Hawaii.
 
 * file name co2_annmean_mlo.csv
 
-* last modified upon download 11th July 2022
-
 3. CO$_2$ Global Monthly Estimates at Mauna Loa, Hawaii.
 
 * file name co2_mm_mlo.csv
-
-* last modified upon download 11th July 2022
 
 ![image](https://user-images.githubusercontent.com/60405870/181995301-0a1cd818-31da-40e0-9e22-81c0ed7facc5.png)
 
