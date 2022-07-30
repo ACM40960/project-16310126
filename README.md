@@ -38,6 +38,7 @@ If you cannot access Wolfram Mathematica through your University or Institution,
 
 
 ### 3. Data 📊 📈 
+The user is recommended to download all datasets from this GitHub, as these are the files we worked on to produce the project, and all datasets are frequenlty updated on their respective websites. However, the 3rd temperature dataset was too large a file to upload to GitHub, so the Reader is encouraged to download this file from the students' Brightspace, or alternatively, follow the instructions below to download the most recent version of the file. If the user wishes, links are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
