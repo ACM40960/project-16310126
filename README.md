@@ -31,7 +31,7 @@ You will be required to
 
 #### General User
 
-If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download and install Mathematica for Home and Office. However, there is a fee attached to general licenses according to which package the user chooses.
+If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose you may choose your subscription plan. However, note there is a fee attached to general licenses according to which package the user chooses. A video tutorial posted by the Wolfram community on how to downlaod the software for Windows and Mac can be found [here](https://community.wolfram.com/groups/-/m/t/2332560?sortMsg=Replies).
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
