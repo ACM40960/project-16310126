@@ -112,7 +112,7 @@ The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-### 5. Authors 🚺 👩‍🔬
+### 5. Authors 👩‍🔬 👩‍🔬
 
  
 Eilish Clune & Megan Farrell (21208251, 16310126).
