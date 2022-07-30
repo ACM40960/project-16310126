@@ -1,14 +1,7 @@
 ## An Investigation into Global Climate Variables and the Determinants of Global Warming
 
-### Table of Contents
 
-* [Intended Use](#intended-use)
-* [Mathematica Installation](#mathematica-installation)
-  - [Introduction](#introduction)
-  - [General User](#general-user)
-  - [Student or Staff License](#student-or-staff-license)
-
-### Intended Use
+### Intended Use 
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
 
@@ -26,6 +19,8 @@ The general user can download Mathematica through... However, the license cost a
 
 UCD students (and staff) are able to access Mathematica for free through the Software Download page of [UCD Connect](https://www.ucd.ie/connect/).
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
+
 ### Data 📊 📈 
 
 #### Temperature Data 🌡️ ❄️ 🔥
@@ -41,6 +36,7 @@ obtained from Met Office Hadley Centre observations datasets, where we downloade
 
 ![image](https://user-images.githubusercontent.com/60405870/181915981-1f0f87f2-8767-49b3-8359-50ffc74eacb2.png)
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
 #### Precipitation Data ☔ 🌀 ⛈️
 
@@ -51,8 +47,9 @@ The associated dataset is the Precipitation Anomaly Dataset
 
 ![image](https://user-images.githubusercontent.com/60405870/181916247-9e4269f5-2747-4bd1-8157-8f12b6bc42c7.png)
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-#### Carbon Dioxide (CO$_2$) ✈️ 🚛 🏭  
+#### Carbon Dioxide (CO$_2$) ✈️ 🚛 🏭 
 
 Carbon dioxide data is freely available through the Global Monitoring Laboratory (GML) of the National Oceanic and Atmospheric Association (NOAA). The initial lines within each dataset contain meta-data on usage. The [CO2](https://gml.noaa.gov/aftp/products/trends/co2/) directory contains 
 
@@ -82,6 +79,8 @@ From here, we have made use of the three files:
 
 * last modified upon download 11th July 2022
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
+
 ### Running the notebook 🏃‍♀️ 🖥️ 
 
 To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
@@ -106,8 +105,11 @@ Sections can be expanded in a few different ways. By clicking the section expans
 
 The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
+
 ### Authors 🚺 👩‍🔬
 
  
 Eilish Clune & Megan Farrell (21208251, 16310126).
 
+[(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
