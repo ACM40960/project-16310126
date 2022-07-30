@@ -35,9 +35,6 @@ If you cannot access Wolfram Mathematica through your University or Institution,
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-#### Buying a Lisence
-
-If you cannot access Wolfram Methematica through your University or Institution, you can buy a lisence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, howeverm you should note that there may be an attached fee, variable upon selected package.
 
 
 ### 3. Data 📊 📈 
