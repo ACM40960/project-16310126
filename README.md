@@ -2,11 +2,17 @@
 
 ### Table of Contents
 
-### 1. Intended use
+* [Intended Use](#intended-use)
+* [Mathematica Installation](#mathematica-installation)
+  - [Introduction](#introduction)
+  - [General User](#general-user)
+  - [Student or Staff License](#student-or-staff-license)
+
+### Intended Use
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
 
-### 2. Mathematica Installation
+###  Mathematica Installation
 
 #### Introduction
 
@@ -16,12 +22,11 @@ Mathematica is a computing system which is favoured across many disciplines from
 
 The general user can download Mathematica through... However, the license cost approximately €3,550.
 
-#### Student License
+#### Student or Staff License
 
 UCD students (and staff) are able to access Mathematica for free through the Software Download page of [UCD Connect](https://www.ucd.ie/connect/).
 
-
-### 3. Data 📊 📈
+### Data 📊 📈 
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
@@ -77,7 +82,7 @@ From here, we have made use of the three files:
 
 * last modified upon download 11th July 2022
 
-### 4. Running the notebook 🏃‍♀️ 🖥️ 
+### Running the notebook 🏃‍♀️ 🖥️ 
 
 To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
 
@@ -99,7 +104,7 @@ Sections can be expanded in a few different ways. By clicking the section expans
 
 ![image](https://user-images.githubusercontent.com/60405870/181856130-0f6416f1-38af-4561-b0b7-a55e557fe29c.png)
 
-The user can also choose to use the keyborad shortcut cmd + ' or ctrl + ' on a mac or windows system.
+The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
 
 ### Authors 🚺 👩‍🔬
 
