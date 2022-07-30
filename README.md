@@ -1,31 +1,29 @@
-# ACM40960 
- 
-Eilish Clune & Megan Farrell (21208251, 16310126).
+## An Investigation into Global Climate Variables and the Determinants of Global Warming
 
-## Table of Contents
+### Table of Contents
 
-## 1. Intended use
+### 1. Intended use
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
 
-## 2. Mathematica Installation
+### 2. Mathematica Installation
 
-### Introduction
+#### Introduction
 
 Mathematica is a computing system which is favoured across many disciplines from geo-spatial mapping to general relativity for its excellence in data science, visualisation and image processing. It is a high-level programming language, making prototyping solutions to a variety of problems straight-forward.
 
-### General User
+#### General User
 
 The general user can download Mathematica through... However, the license cost approximately €3,550.
 
-### Student License
+#### Student License
 
 UCD students (and staff) are able to access Mathematica for free through the Software Download page of [UCD Connect](https://www.ucd.ie/connect/).
 
 
-## 3. Data
+### 3. Data
 
-### Temperature Data
+#### Temperature Data
 
 The [temperature data ](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html )
 obtained from Met Office Hadley Centre observations datasets, where we downloaded 3 files:
@@ -34,14 +32,14 @@ obtained from Met Office Hadley Centre observations datasets, where we downloade
 2. HadCRUT5 analysis time series: ensemble members: Ensemble Series Global Monthly NetCDF;
 3. HadCRUT5 analysis gridded data: additional fields: Ensemble mean NetCDF.
 
-### Precipitation Data
+#### Precipitation Data
 
 The [precipitation data](https://downloads.psl.noaa.gov/Datasets/ghcngridded/)
 is available through the National Oceanic and Atmospheric Administration Physical Sciences
 Laboratory, and is produced under the Global Historical Climatology Network. 
 The associated dataset is the Precipitation Anomaly Dataset
 
-### Carbon Dioxide (CO$_2$)
+#### Carbon Dioxide (CO$_2$)
 
 Carbon dioxide data is freely available through the Global Monitoring Laboratory (GML) of the National Oceanic and Atmospheric Association (NOAA). The initial lines within each dataset contain meta-data on usage. The [CO2](https://gml.noaa.gov/aftp/products/trends/co2/) directory contains 
 
@@ -71,7 +69,7 @@ From here, we have made use of the three files:
 
 * last modified upon download 11th July 2022
 
-## 4. Running the notebook
+### 4. Running the notebook
 
 To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
 
@@ -95,5 +93,8 @@ Sections can be expanded in a few different ways. By clicking the section expans
 
 The user can also choose to use the keyborad shortcut cmd + ' or ctrl + ' on a mac or windows system.
 
+### Authors
 
+ 
+Eilish Clune & Megan Farrell (21208251, 16310126).
 
