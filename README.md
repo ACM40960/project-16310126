@@ -108,7 +108,7 @@ The notebook is organised into six sections across
 
 Sections can be expanded in a few different ways. By clicking the section expansion the section is opened.
 
-![image](https://user-images.githubusercontent.com/60405870/181856130-0f6416f1-38af-4561-b0b7-a55e557fe29c.png)
+![image](https://user-images.githubusercontent.com/60405870/181996215-3151a25d-47d4-4bc6-85c9-372d45e17587.png)
 
 The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
 
