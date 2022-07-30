@@ -32,12 +32,20 @@ obtained from Met Office Hadley Centre observations datasets, where we downloade
 2. HadCRUT5 analysis time series: ensemble members: Ensemble Series Global Monthly NetCDF;
 3. HadCRUT5 analysis gridded data: additional fields: Ensemble mean NetCDF.
 
-#### Precipitation Data
+![image](https://user-images.githubusercontent.com/60405870/181915878-c8c1037c-0570-4d1c-9007-99b6ca751970.png)
+
+![image](https://user-images.githubusercontent.com/60405870/181915981-1f0f87f2-8767-49b3-8359-50ffc74eacb2.png)
+
+
+#### Precipitation Data 
 
 The [precipitation data](https://downloads.psl.noaa.gov/Datasets/ghcngridded/)
 is available through the National Oceanic and Atmospheric Administration Physical Sciences
 Laboratory, and is produced under the Global Historical Climatology Network. 
 The associated dataset is the Precipitation Anomaly Dataset
+
+![image](https://user-images.githubusercontent.com/60405870/181916247-9e4269f5-2747-4bd1-8157-8f12b6bc42c7.png)
+
 
 #### Carbon Dioxide (CO$_2$)
 
