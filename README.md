@@ -1,11 +1,11 @@
 ## An Investigation into Global Climate Variables and the Determinants of Global Warming
 
 
-### Intended Use 
+### 1. Intended Use 
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
 
-###  Mathematica Installation
+###  2. Mathematica Installation
 
 #### Introduction
 
@@ -35,7 +35,7 @@ You will be required to
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-### Data 📊 📈 
+### 3. Data 📊 📈 
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
@@ -95,7 +95,7 @@ From here, we have made use of the three files:
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-### Running the notebook 🏃‍♀️ 🖥️ 
+### 4. Running the notebook 🏃‍♀️ 🖥️ 
 
 To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
 
@@ -121,7 +121,7 @@ The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
-### Authors 🚺 👩‍🔬
+### 5. Authors 🚺 👩‍🔬
 
  
 Eilish Clune & Megan Farrell (21208251, 16310126).
