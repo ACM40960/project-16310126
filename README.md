@@ -37,7 +37,7 @@ If you cannot access Wolfram Mathematica through your University or Institution,
 
 #### Buying a Lisence
 
-If you cannot access Wolfram Methematica through your University or Institution, you can buy a lisence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download in install Mathematica for Home and Office. 
+If you cannot access Wolfram Methematica through your University or Institution, you can buy a lisence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, howeverm you should note that there may be an attached fee, variable upon selected package.
 
 
 ### 3. Data 📊 📈 
