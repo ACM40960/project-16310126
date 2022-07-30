@@ -13,11 +13,25 @@ Mathematica is a computing system which is favoured across many disciplines from
 
 #### General User
 
-The general user can download Mathematica through... However, the license cost approximately €3,550.
+The general user can download Mathematica through the same website. However, licenses range in price, with an industry license ranging from €755 per year (excluding VAT).
 
-#### Student or Staff License
+#### Institution License
 
-UCD students (and staff) are able to access Mathematica for free through the Software Download page of [UCD Connect](https://www.ucd.ie/connect/).
+You can find out if your academic institution holds a site license to Mathematica by following the link the the [Mathematica homepage](https://www.wolfram.com/mathematica/).
+1. Follow the banner to find out if you already have access to Wolfram tech through your institution.
+2. Enter the email address that is associated with your organisation and tick the box to agree to the retention of personal data.
+3. Assuming eligibility, you will be prompted to confirm status at the organisation and brought to a software download page.
+
+![image](https://user-images.githubusercontent.com/60405870/181994454-1c5c3f40-ea87-4553-a6c1-9dc94f1ab1a3.png)
+![image](https://user-images.githubusercontent.com/60405870/181994582-3907f6c3-e576-4469-9237-802dd11dc9f1.png)
+
+You will be required to 
+- Check your email and click the link to validate Wolfram ID.
+- Fill out the Wolfram Home Use Request Form if prompted to do so. This will request an activation key for a single machine.
+- You will then automatically receive an email from Wolfram with the Activation Key and a link to download the installer.
+- Follow the link to sign into the Wolfram User Portal.
+- Download and run the installer.
+- Enter the Activation Key at the prompt.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
