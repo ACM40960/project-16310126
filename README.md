@@ -5,7 +5,7 @@
 
 The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables. 
 
-###  2. Mathematica Installation 📦 📂
+###  2. Mathematica Installation
 
 #### Introduction
 
@@ -38,11 +38,12 @@ If you cannot access Wolfram Mathematica through your University or Institution,
 
 
 ### 3. Data 📊 📈 
+The user is recommended to download all datasets from this GitHub, as all datasets are frequenlty updated on their respective websites.
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
 The [temperature data ](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html )
-obtained from Met Office Hadley Centre observations datasets, where we downloaded 3 files:
+was obtained from the Met Office Hadley Centre, where we downloaded 3 files:
 
 1. HadCRUT5 analysis time series: ensemble means and uncertainties: Summary Series Global Monthly NetCDF;
 2. HadCRUT5 analysis time series: ensemble members: Ensemble Series Global Monthly NetCDF;
@@ -90,11 +91,11 @@ From here, we have made use of the three files:
 
 ### 4. Running the notebook 🏃‍♀️ 🖥️ 
 
-To run the notebook, download the ACM40960_21208251_16310126.nb included within this repository along with all prescribed data-sets. There should be 7 data-sets downloaded and included in the same folder as the Mathematica notebook. Opening Mathematica on your desktop should open on the following page:
+To run the notebook, download the notebook ACM40960.nb along with all prescribed data-sets into the same folder as the Mathematica noteboo. The Mathematica homepage
 
 ![image](https://user-images.githubusercontent.com/60405870/181854711-00dee655-c37b-4269-975c-086cbe729d64.png)
 
-Open the Mathematica notebook file. We recommend the user evaluate notebook before expanding sections, which takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab.
+Open the Mathematica document. We recommend the user evaluate notebook before expanding sections, which takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab.
 
 ![image](https://user-images.githubusercontent.com/60405870/181855350-fdfb1e80-435b-4ee1-be20-a5cf0ba6ca86.png)
 
@@ -108,7 +109,7 @@ The notebook is organised into six sections across
 
 Sections can be expanded in a few different ways. By clicking the section expansion the section is opened.
 
-![image](https://user-images.githubusercontent.com/60405870/181996215-3151a25d-47d4-4bc6-85c9-372d45e17587.png)
+![image](https://user-images.githubusercontent.com/60405870/181856130-0f6416f1-38af-4561-b0b7-a55e557fe29c.png)
 
 The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
 
