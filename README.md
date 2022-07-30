@@ -3,7 +3,7 @@
 
 ### 1. Intended Use 
 
-The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables.
+The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables. 
 
 ###  2. Mathematica Installation
 
@@ -31,7 +31,7 @@ You will be required to
 
 #### General User
 
-If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download and install Mathematica for Home and Office. The general user can download Mathematica through the same website. However, there is a fee attached to general licenses according to which package the user chooses.
+If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose your subscription plan, with a guide here on how to download and install Mathematica for Home and Office. However, there is a fee attached to general licenses according to which package the user chooses.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
