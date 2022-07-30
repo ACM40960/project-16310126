@@ -73,25 +73,16 @@ From here, we have made use of the three files:
 
 * file name co2_trend_gl.csv
 
-* file size 112K
-
-* last modified upon download 
-
 2. CO$_2$ Global Annual Mean Estimates at Mauna Loa, Hawaii.
 
 * file name co2_annmean_mlo.csv
-
-* file size 3.7K
-
-* last modified upon download 11th July 2022
 
 3. CO$_2$ Global Monthly Estimates at Mauna Loa, Hawaii.
 
 * file name co2_mm_mlo.csv
 
-* file size 36K
+![image](https://user-images.githubusercontent.com/60405870/181994997-a3cdb29b-f584-42b9-b8e4-4536a68d2c19.png)
 
-* last modified upon download 11th July 2022
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
