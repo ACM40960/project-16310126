@@ -106,9 +106,9 @@ The notebook is organised into six sections across
 
 Sections can be expanded in a few different ways. By clicking the section expansion the section is opened.
 
-![image](https://user-images.githubusercontent.com/60405870/181856130-0f6416f1-38af-4561-b0b7-a55e557fe29c.png)
+![image](https://user-images.githubusercontent.com/60405870/181995116-4e6467b4-a58b-4c07-bf1d-e1caa331eb95.png)
 
-The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
+The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system. The same commands can be used to collapse the section again to aid with notebook consolidation.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
