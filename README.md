@@ -1,9 +1,9 @@
 ## An Investigation into Global Climate Variables and the Determinants of Global Warming
 
 
-### 1. Intended Use 
+### 1. Intended Use 🤝
 
-The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables. 
+The aim of this project is to conduct an investigation into the key determinants of global warming, with a focus on global climate variables. To aid with the investigation we have downloaded temperature, precipitation and carbon dioxide data from sources indicated below and made use of the Wolfram Knowledgebase. All analysis of data has taken place within Mathematica.
 
 ###  2. Mathematica Installation 📦 📂
 
