@@ -40,7 +40,14 @@ If you cannot access Wolfram Mathematica through your Institution, you can buy a
 
 
 ### 3. Data 📊 📈 
-The user is recommended to download all datasets from this GitHub, as these are the files we worked on to produce the project, and all datasets are frequenlty updated on their respective websites. However, the 3rd temperature dataset was too large to upload to GitHub, so the user is encouraged to download this file from the students' Brightspace, or alternatively, follow the instructions below to download the most recent version of the file. If preferred, links are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
+
+The user can choose to download the files directly from the pages linked by following the instructions given below to the precise data-sets, or they can choose to download the data-sets included within this repository. In both cases please note:
+
+1. All data-sets are updated by the associated body regularly, meaning it is likely that there will be some additional data observations added to the data-set when the user downloads the data-file from the parent directory. This should not create a problem when running the Mathematica document as steps have been taken to overcome any issues this might cause. However, lines of text within the Mathematica document referring to size and dimensions of data-sets may be off.
+
+2. Dowloading the data-files directly from this repository means the user will have access to the exact same data-files used by the authors in their analysis. However, due to size restrictions on GitHub uploads, one data-file has been excluded from the repository. This is the temperature data file number 3. HadCRUT5 analysis gridded data: additional fields: Ensemble mean NetCDF. With regards to this file, the user must download the file from either the parent directory. The original data-file has been included in both authors' Brightspace submission, in order to present the data-file worked off.
+
+Links and instructions are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
