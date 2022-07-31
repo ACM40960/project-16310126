@@ -21,13 +21,15 @@ You can find out if your academic institution holds a site license to Mathematic
 ![image](https://user-images.githubusercontent.com/60405870/181994454-1c5c3f40-ea87-4553-a6c1-9dc94f1ab1a3.png)
 ![image](https://user-images.githubusercontent.com/60405870/181994582-3907f6c3-e576-4469-9237-802dd11dc9f1.png)
 
+UCD's sotware download page provides the following instructions for first time download of Mathematica software.
+
 You will be required to 
 - Check your email and click the link to validate Wolfram ID.
 - Fill out the Wolfram Home Use Request Form if prompted to do so. This will request an activation key for a single machine.
-- You will then automatically receive an email from Wolfram with the Activation Key and a link to download the installer.
+- You will then receive an email from Wolfram with the Activation Key and a link to download the installer.
 - Follow the link to sign into the Wolfram User Portal.
 - Download and run the installer.
-- Enter the Activation Key at the prompt.
+- Enter the Activation Key when prompted to do so.
 
 #### General User
 
