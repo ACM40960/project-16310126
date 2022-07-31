@@ -113,11 +113,11 @@ The notebook is organised into six sections across
 5. Linear Modelling;
 6. Carbon Dioxide.
 
-Sections can be expanded in a few different ways. By clicking the section expansion the section is opened.
+Sections can be expanded in a few different ways. By clicking the section expansion button the section is opened:
 
 ![image](https://user-images.githubusercontent.com/60405870/181996215-3151a25d-47d4-4bc6-85c9-372d45e17587.png)
 
-The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system.
+The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on a mac or windows system. Within each section there are detailed subsections which can be opened and closed in the same way.
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
