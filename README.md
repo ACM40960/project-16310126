@@ -41,11 +41,11 @@ If you cannot access Wolfram Mathematica through your Institution, you can buy a
 
 ### 3. Data 📊 📈 
 
-The user can choose to download the files directly from the pages linked by following the instructions given below to the precise data-sets, or they can choose to download the data-sets included within this repository. In both cases please note:
+The user can choose to download the files directly from the pages linked by following the instructions given below to the precise data-sets, or they can choose to download the data-sets included within this repository, along with the google drive links which have been provided for the two biggest files. In both cases please note:
 
 1. All data-sets are updated by the associated body regularly, meaning it is likely that there will be some additional data observations added to the data-set when the user downloads the data-file from the parent directory. This should not create a problem when running the Mathematica document as steps have been taken to overcome any issues this might cause. However, lines of text within the Mathematica document referring to size and dimensions of data-sets may be off.
 
-2. Dowloading the data-files directly from this repository means the user will have access to the exact same data-files used by the authors in their analysis. 
+2. Dowloading the data-files directly from this repository (and the google drive) means the user will have access to the exact same data-files used by the authors in their analysis. 
 
 Links and instructions are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
 
@@ -58,6 +58,8 @@ obtained from Met Office Hadley Centre observations datasets, where we downloade
 2. HadCRUT5 analysis time series: ensemble members: Ensemble Series Global Monthly NetCDF;
 3. HadCRUT5 analysis gridded data: additional fields: Ensemble mean NetCDF.
 
+The first two files are available to download via the repository, with the third available via this [google drive](https://drive.google.com/file/d/1m7OuZfm4OIvqxntjOL4wOGmC8j6YVN0E/view?usp=sharing).
+
 ![image](https://user-images.githubusercontent.com/60405870/181915878-c8c1037c-0570-4d1c-9007-99b6ca751970.png)
 
 ![image](https://user-images.githubusercontent.com/60405870/181915981-1f0f87f2-8767-49b3-8359-50ffc74eacb2.png)
@@ -69,7 +71,7 @@ obtained from Met Office Hadley Centre observations datasets, where we downloade
 The [precipitation data](https://downloads.psl.noaa.gov/Datasets/ghcngridded/)
 is available through the National Oceanic and Atmospheric Administration Physical Sciences
 Laboratory, and is produced under the Global Historical Climatology Network. 
-The associated dataset is the Precipitation Anomaly Dataset
+The associated dataset is the Precipitation Anomaly Dataset, and can also be obtained via this [google drive](https://drive.google.com/file/d/1PYcMpkWQY_o181U9VdLMM5i42gNjIzYd/view?usp=sharing) link, or the link to the page above.
 
 ![image](https://user-images.githubusercontent.com/60405870/181916247-9e4269f5-2747-4bd1-8157-8f12b6bc42c7.png)
 
@@ -93,6 +95,7 @@ From here, we have made use of the three files:
 
 * file name co2_mm_mlo.csv
 
+Each of these files are also available to download via the repository. 
 ![image](https://user-images.githubusercontent.com/60405870/181995301-0a1cd818-31da-40e0-9e22-81c0ed7facc5.png)
 
 
