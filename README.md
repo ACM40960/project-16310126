@@ -33,14 +33,14 @@ You will be required to
 
 #### General User
 
-If you cannot access Wolfram Mathematica through your University or Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page choose you may choose your subscription plan. However, note there is a fee attached to general licenses according to which package the user chooses. A video tutorial posted by the Wolfram community on how to downlaod the software for Windows and Mac can be found [here](https://community.wolfram.com/groups/-/m/t/2332560?sortMsg=Replies).
+If you cannot access Wolfram Mathematica through your Institution, you can buy a licence via their [website](https://www.wolfram.com/mathematica/pricing/). On this page you may choose your subscription plan. However, note there is a fee attached to general licenses according to which package the user chooses. A video tutorial posted by the Wolfram community on how to download the software for Windows and Mac can be found [here](https://community.wolfram.com/groups/-/m/t/2332560?sortMsg=Replies).
 
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
 
 
 ### 3. Data 📊 📈 
-The user is recommended to download all datasets from this GitHub, as these are the files we worked on to produce the project, and all datasets are frequenlty updated on their respective websites. However, the 3rd temperature dataset was too large to upload to GitHub, so the User is encouraged to download this file from the students' Brightspace, or alternatively, follow the instructions below to download the most recent version of the file. If preferred, links are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
+The user is recommended to download all datasets from this GitHub, as these are the files we worked on to produce the project, and all datasets are frequenlty updated on their respective websites. However, the 3rd temperature dataset was too large to upload to GitHub, so the user is encouraged to download this file from the students' Brightspace, or alternatively, follow the instructions below to download the most recent version of the file. If preferred, links are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
 
 #### Temperature Data 🌡️ ❄️ 🔥
 
