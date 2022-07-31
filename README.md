@@ -91,13 +91,19 @@ From here, we have made use of the three files:
 
 ### 4. Running the notebook 🏃‍♀️ 🖥️ 
 
+#### Downloading and opening the notebook
+
 To run the notebook, download the ACM40960_21208251_16310126.nb included within this repository along with all prescribed data-sets. There should be 7 data-sets downloaded and included in the same folder as the Mathematica notebook. Opening Mathematica on your desktop should open on the following page:
 
 ![image](https://user-images.githubusercontent.com/60405870/181854711-00dee655-c37b-4269-975c-086cbe729d64.png)
 
-Open the Mathematica notebook file. We recommend the user evaluate notebook before expanding sections, which takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab.
+Open the Mathematica notebook file. We recommend the user evaluate the notebook before expanding sections. Doing so takes approximately 2 minutes 24 seconds. The Evaluate Notebook option is included under the the evaluation tab:
 
 ![image](https://user-images.githubusercontent.com/60405870/181855350-fdfb1e80-435b-4ee1-be20-a5cf0ba6ca86.png)
+
+Please note that the user can choose to run the notebook section by section, but should bear in mind the notebook is organised using a top-down approach. Data importation and cleaning in preliminary sections informs analysis and organises data in sections to follow.
+
+#### Sections of the notebook 🔢
 
 The notebook is organised into six sections across 
 1. Importing Data;
@@ -116,7 +122,6 @@ The user can also choose to use the keyborad shortcut `cmd + '` or `ctrl + '` on
 [(Back to top)](#an-investigation-into-global-climate-variables-and-the-determinants-of-global-warming)
 
 ### 5. Authors 👩‍🔬 👩‍🔬
-
  
 Eilish Clune & Megan Farrell (21208251, 16310126).
 
