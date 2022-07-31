@@ -1,4 +1,4 @@
-## An Investigation into Global Climate Variables and the Determinants of Global Warming
+## An Investigation into Global Climate Variables and the Key Determinants of Global Warming
 
 
 ### 1. Intended Use 🤝
