@@ -45,7 +45,7 @@ The user can choose to download the files directly from the pages linked by foll
 
 1. All data-sets are updated by the associated body regularly, meaning it is likely that there will be some additional data observations added to the data-set when the user downloads the data-file from the parent directory. This should not create a problem when running the Mathematica document as steps have been taken to overcome any issues this might cause. However, lines of text within the Mathematica document referring to size and dimensions of data-sets may be off.
 
-2. Dowloading the data-files directly from this repository means the user will have access to the exact same data-files used by the authors in their analysis. However, due to size restrictions on GitHub uploads, one data-file has been excluded from the repository. This is the temperature data file number 3. HadCRUT5 analysis gridded data: additional fields: Ensemble mean NetCDF. With regards to this file, the user must download the file from either the parent directory. The original data-file has been included in both authors' Brightspace submission, in order to present the data-file worked off.
+2. Dowloading the data-files directly from this repository means the user will have access to the exact same data-files used by the authors in their analysis. 
 
 Links and instructions are provided below to download the current versions of each of these file. Code will run with either verion of the files, but outputs and comments may not be accurate for the updated files.
 
